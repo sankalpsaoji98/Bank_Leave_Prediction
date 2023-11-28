@@ -10,8 +10,7 @@ Goal of the project is to predict bank customer attrition.
 - [Software](#software)
 - [Intro](#intro)
 - [Data](#data)
-- [Results](#results)
-- [Next](#next)
+- [Models](#models)
 - [Acknowledgements](#acknowledgements)
 
 ## Software
